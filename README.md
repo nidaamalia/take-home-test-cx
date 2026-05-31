@@ -153,4 +153,3 @@ POST /api/users                 → StandardApiResponse<User>
 - Baca seluruh `StatCard` sebelum mulai bikin `DataGrid`
 - Baca seluruh `useDashboardStats` sebelum bikin hook baru
 - `createQueryKeys` ada di `src/lib/query/keys.ts` — baca JSDoc-nya
-- React Query Devtools tersedia di pojok kiri bawah (ikon bunga)
